@@ -1,3 +1,3 @@
 print ("Hello word!")
 alma = 0
-korte=0
+korte=2
